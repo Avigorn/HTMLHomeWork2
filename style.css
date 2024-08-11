@@ -1,0 +1,44 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url("../img/1662876853_57-furman-top-p-rozovii-gradientnii-fon-krasivo-59.jpg"); 
+    background-size: cover;
+    font-family: sans-serif;
+    }
+
+
+.header-link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.heading {
+    color: #540e23;
+    font-size: 36px;
+    line-height: 52px;
+    font-weight: bold;
+}
+
+.paragraphs {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #250325;
+}
+
+.heading.mid {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.catalog-picture {
+    border-radius: 10px;
+    width: 250px;
+}
